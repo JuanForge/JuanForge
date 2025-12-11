@@ -16,12 +16,12 @@
 - **Windows** ( rarely )
 
 <div>
-<img src="./icons/Debian-Dark.svg" width="75">
-<img src="./icons/Kali-Dark.svg" width="75">
-<img src="./icons/Linux-Dark.svg" width="75">
-<img src="./icons/Mint-Dark.svg" width="75">
-<img src="./icons/Ubuntu-Dark.svg" width="75">
-<img src="./icons/Windows-Dark.svg" width="75">
+<img src="./icons/Debian-Dark.svg" width="60">
+<img src="./icons/Kali-Dark.svg" width="60">
+<img src="./icons/Linux-Dark.svg" width="60">
+<img src="./icons/Mint-Dark.svg" width="60">
+<img src="./icons/Ubuntu-Dark.svg" width="60">
+<img src="./icons/Windows-Dark.svg" width="60">
 </div>
 
 # 🧠 Programming Languages
@@ -29,25 +29,30 @@
 - **Windows Batch**
 
 <div>
-<img src="./icons//Python-Dark.svg" width="75">
-<img src="./icons/Bash-Dark.svg" width="75">
+<img src="./icons//Python-Dark.svg" width="60">
+<img src="./icons/Bash-Dark.svg" width="60">
 </div>
 
 # 🗄️ Databases
 - **MongoDB**
 
-<img src="./icons/MongoDB.svg" width="75">
+<img src="./icons/MongoDB.svg" width="60">
 
 # 🔧 Other Tools & Technologies
 
 <div>
-<img src="./icons/Docker.svg" width="75">
-<img src="./icons/FastAPI.svg" width="75">
-<img src="./icons/Flask-Dark.svg" width="75">
-<img src="./icons/Git.svg" width="75">
-<img src="./icons/Grafana-Dark.svg" width="75">
-<img src="./icons/Nginx.svg" width="75">
-<img src="./icons/Prometheus.svg" width="75">
-<img src="./icons/StackOverflow-Dark.svg" width="75">
-<img src="./icons/VSCode-Dark.svg" width="75">
+<img src="./icons/Docker.svg" width="60">
+<img src="./icons/FastAPI.svg" width="60">
+<img src="./icons/Flask-Dark.svg" width="60">
+<img src="./icons/Git.svg" width="60">
+<img src="./icons/Grafana-Dark.svg" width="60">
+<img src="./icons/Nginx.svg" width="60">
+<img src="./icons/Prometheus.svg" width="60">
+<img src="./icons/StackOverflow-Dark.svg" width="60">
+<img src="./icons/VSCode-Dark.svg" width="60">
 </div>
+
+---
+
+# 📬 Contact
+- Session : 05d6aabf549e3d71180341db6ccaf9cd73f8413d4c88b1031eb7e806bb81ceda02
