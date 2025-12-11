@@ -23,12 +23,15 @@
 <img src="./icons/Ubuntu-Dark.svg" width="75">
 <img src="./icons/Windows-Dark.svg" width="75">
 </div>
+
 # 🧠 Programming Languages
 - **Python 3.11+** ( main language )
 - **Windows Batch**
 
+<div>
 <img src="./icons//Python-Dark.svg" width="75">
 <img src="./icons/Bash-Dark.svg" width="75">
+</div>
 
 # 🗄️ Databases
 - **MongoDB**
@@ -37,6 +40,7 @@
 
 # 🔧 Other Tools & Technologies
 
+<div>
 <img src="./icons/Docker.svg" width="75">
 <img src="./icons/FastAPI.svg" width="75">
 <img src="./icons/Flask-Dark.svg" width="75">
@@ -46,3 +50,4 @@
 <img src="./icons/Prometheus.svg" width="75">
 <img src="./icons/StackOverflow-Dark.svg" width="75">
 <img src="./icons/VSCode-Dark.svg" width="75">
+</div>
