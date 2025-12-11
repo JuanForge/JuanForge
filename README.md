@@ -15,13 +15,14 @@
 - **Termux (Android)** for some experimental modules
 - **Windows** ( rarely )
 
+<div>
 <img src="./icons/Debian-Dark.svg" width="75">
 <img src="./icons/Kali-Dark.svg" width="75">
 <img src="./icons/Linux-Dark.svg" width="75">
 <img src="./icons/Mint-Dark.svg" width="75">
 <img src="./icons/Ubuntu-Dark.svg" width="75">
 <img src="./icons/Windows-Dark.svg" width="75">
-
+</div>
 # 🧠 Programming Languages
 - **Python 3.11+** ( main language )
 - **Windows Batch**
