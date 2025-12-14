@@ -24,6 +24,8 @@
 <img src="./icons/Windows-Dark.svg" width="60">
 </div>
 
+---
+
 # 🧠 Programming Languages
 - **Python 3.11+** ( main language )
 - **Windows Batch**
@@ -33,10 +35,26 @@
 <img src="./icons/Bash-Dark.svg" width="60">
 </div>
 
+---
+
+# 📚 Learning Languages
+- **Rust**
+- **C++**
+
+
+<div>
+<img src="./icons/Rust.svg" width="60">
+<img src="./icons/CPP.svg" width="60">
+</div>
+
+---
+
 # 🗄️ Databases
 - **MongoDB**
 
 <img src="./icons/MongoDB.svg" width="60">
+
+---
 
 # 🔧 Other Tools & Technologies
 
