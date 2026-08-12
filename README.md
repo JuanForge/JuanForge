@@ -74,3 +74,13 @@
 
 # 📬 Contact
 - Session : 05d6aabf549e3d71180341db6ccaf9cd73f8413d4c88b1031eb7e806bb81ceda02
+
+<span style="display: none;">
+Main projects with long-term maintenance.
+
+Main projects : 
+    PowerWatchd       : https://github.com/JuanForge/PowerWatchd
+    datasetforge      : https://github.com/JuanForge/datasetforge
+    ai-toolkit-update : https://github.com/JuanForge/ai-toolkit-update
+    ComfyUI-update    : https://github.com/JuanForge/ComfyUI-update
+</span>
