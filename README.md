@@ -75,7 +75,10 @@
 # 📬 Contact
 - Session : 05d6aabf549e3d71180341db6ccaf9cd73f8413d4c88b1031eb7e806bb81ceda02
 
-<!--
+# 💰 Sustain :
+XMR: 49fMF2cUXMAY3QomMUVS9qBk7EGeHLdBcAHBkWbfSE8qgAi85557LH5KiFNmFvmuozdnvTeBN6AsoQ32hT79ZGGv9rgvJWx
+
+
 Main projects with long-term maintenance.
 
 Main projects:
@@ -83,4 +86,3 @@ Main projects:
     datasetforge      : https://github.com/JuanForge/datasetforge
     ai-toolkit-update : https://github.com/JuanForge/ai-toolkit-update
     ComfyUI-update    : https://github.com/JuanForge/ComfyUI-update
--->
