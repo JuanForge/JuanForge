@@ -83,7 +83,7 @@ XMR: 49fMF2cUXMAY3QomMUVS9qBk7EGeHLdBcAHBkWbfSE8qgAi85557LH5KiFNmFvmuozdnvTeBN6A
 Main projects with long-term maintenance.
 
 Main projects:
-    PowerWatchd       : https://github.com/JuanForge/PowerWatchd
-    datasetforge      : https://github.com/JuanForge/datasetforge
-    ai-toolkit-update : https://github.com/JuanForge/ai-toolkit-update
-    ComfyUI-update    : https://github.com/JuanForge/ComfyUI-update
+    - PowerWatchd       : https://github.com/JuanForge/PowerWatchd
+    - datasetforge      : https://github.com/JuanForge/datasetforge
+    - openforge         : https://github.com/JuanForge/openforge
+    - EnBoite           : https://github.com/JuanForge/EnBoite
