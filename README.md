@@ -73,16 +73,21 @@
 ---
 
 # 📬 Contact
-- Session : 05d6aabf549e3d71180341db6ccaf9cd73f8413d4c88b1031eb7e806bb81ceda02
+- Session : 05d6aabf549e3d71180341db6ccaf9cd73f8413d4c88b1031eb7e806bb81ceda02 ( No longer used )
+- Proton Mail : **Soon**
 
 # 💰 Sustain :
-XMR: 49fMF2cUXMAY3QomMUVS9qBk7EGeHLdBcAHBkWbfSE8qgAi85557LH5KiFNmFvmuozdnvTeBN6AsoQ32hT79ZGGv9rgvJWx
+#### XMR : 49fMF2cUXMAY3QomMUVS9qBk7EGeHLdBcAHBkWbfSE8qgAi85557LH5KiFNmFvmuozdnvTeBN6AsoQ32hT79ZGGv9rgvJWx
+#### BTC : **Soon**
+
+# Site :
+ - http://wqfkvi5npuu2vxq7ksacxf2rts7cbohzgossliuoirl6qd7ku72jnead.onion
 
 ---
 
-Main projects with long-term maintenance.
-
-Main projects:
+## Main projects
+    - Main projects with long-term maintenance.
+    
     - PowerWatchd       : https://github.com/JuanForge/PowerWatchd
     - datasetforge      : https://github.com/JuanForge/datasetforge
     - openforge         : https://github.com/JuanForge/openforge
