@@ -83,8 +83,6 @@
 # Site :
  - http://wqfkvi5npuu2vxq7ksacxf2rts7cbohzgossliuoirl6qd7ku72jnead.onion
 
- ( The website should be back online within a month (information as of 2026-10-24). )
-
 ---
 
 ## Main projects
