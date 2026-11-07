@@ -74,7 +74,7 @@
 
 # 📬 Contact
 - Session : 05d6aabf549e3d71180341db6ccaf9cd73f8413d4c88b1031eb7e806bb81ceda02 ( No longer used )
-- Proton Mail : **Soon**
+- Proton Mail : **juanforge.tech@proton.me**
 
 # 💰 Sustain :
 #### XMR : 49fMF2cUXMAY3QomMUVS9qBk7EGeHLdBcAHBkWbfSE8qgAi85557LH5KiFNmFvmuozdnvTeBN6AsoQ32hT79ZGGv9rgvJWx
